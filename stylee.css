@@ -17,6 +17,11 @@ body{
   align-items: center;
   justify-content: center;
 }
+.Heading{
+  position:absolute;
+  bottom: 450px;
+  color: #d5a7a7;
+}
 .container {
   height: 100vh;
   display: grid;
